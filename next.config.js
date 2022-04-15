@@ -3,7 +3,7 @@ module.exports = {
   images: {
     domains: [
       
-      // do not add arweave or other potentially malicious urls here
+      // add config
     ],
   },
   reactStrictMode: true,
