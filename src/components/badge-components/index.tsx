@@ -9,6 +9,7 @@ const Exchange: FC<Props> = ({ exchangeName }) => {
 
   if (!exchangeName) return null
 
+
   let bg = 'success'
   let emoji = '🙈'
   let text = 'text-white'
