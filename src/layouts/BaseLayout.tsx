@@ -3,9 +3,7 @@ import Footer from "src/components/smallculars/Base/Footer";
 import JasesNav from "src/components/molecules/Base/JasesNav";
 
 interface BaseLayoutProps {
-  /**
-   * Children To be populated inside the layout
-   */
+  
   children?: React.ReactNode;
 }
 
